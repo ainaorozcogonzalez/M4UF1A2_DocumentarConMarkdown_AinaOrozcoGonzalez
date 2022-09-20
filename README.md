@@ -53,4 +53,4 @@ elementos HTML deberían ser mostrados.
 
 8. Flujo de trabajo (navegador, petición, servidor y respuesta):
 
- [!Respuesta](
+ [!Respuesta]("C:\Users\ainao\Pictures\Captura de pantalla 2022-09-20 115632.png")
