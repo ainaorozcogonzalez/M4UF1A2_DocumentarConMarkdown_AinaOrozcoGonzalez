@@ -53,4 +53,4 @@ elementos HTML deberían ser mostrados.
 
 8. Flujo de trabajo (navegador, petición, servidor y respuesta):
 
- [!Respuesta]("[C:\Users\ainao\Pictures\Captura de pantalla 2022-09-20 115632.png](https://raw.githubusercontent.com/ainaorozcogonzalez/M4UF1A2_DocumentarConMarkdown_AinaOrozcoGonzalez/main/Captura%20de%20pantalla%202022-09-20%20115632.png)")
+ [!Respuesta](https://raw.githubusercontent.com/ainaorozcogonzalez/M4UF1A2_DocumentarConMarkdown_AinaOrozcoGonzalez/main/Captura%20de%20pantalla%202022-09-20%20115632.png)
