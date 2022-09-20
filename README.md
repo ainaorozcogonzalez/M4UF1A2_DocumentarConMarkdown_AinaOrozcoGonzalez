@@ -53,4 +53,4 @@ elementos HTML deberían ser mostrados.
 
 8. Flujo de trabajo (navegador, petición, servidor y respuesta):
 
- [!Respuesta]([https://raw.githubusercontent.com/ainaorozcogonzalez/M4UF1A2_DocumentarConMarkdown_AinaOrozcoGonzalez/main/Captura%20de%20pantalla%202022-09-20%20115632.png](https://helpx.adobe.com/content/dam/help/es/dreamweaver/using/web-applications/jcr%3Acontent/main-pars/image_0/ds_process_static.png.img.png))
+ [!Respuesta](https://helpx.adobe.com/content/dam/help/es/dreamweaver/using/web-applications/jcr%3Acontent/main-pars/image_0/ds_process_static.png.img.png)
